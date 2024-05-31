@@ -13,14 +13,29 @@ body{
     background-color: #faf0e4;
 }
 .bg-body-tertiary {
-    background-color: rgb(206,175,152) !important;
+    background-color:rgb(176,145,120) !important;
     width: 100vw;
 }
 .navbar-brand{
     all: unset;
+    color: #faf0e4;
+}
+
+.nav-link{
+    color: #faf0e4;
+}
+
+.nav-link:hover{
+    color: #9cc7c1;
 }
 .navbar-brand:hover{
     cursor: pointer;
+    color: #9cc7c1;
+}
+
+.active{
+    color: #9cc7c1 !important;
+    padding-left: 1rem !important;
 }
 
 /*GRID*/
@@ -34,7 +49,25 @@ body{
 .row>* {
     margin-top: 2.5rem;
 }
+.card figure{
+    display: flex;
+    justify-content:center;
+    overflow: hidden;
+}
+.card:hover img{
+    transform: scale(1.2);
+}
 
+.card img{
+    transition: all .5s;
+}
+.card{
+    border-radius: 3em;
+}
+
+.card:hover{
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.20);
+}
 /*
 .contenedor-tarjetas{
     display: grid;
