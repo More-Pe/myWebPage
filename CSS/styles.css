@@ -10,19 +10,23 @@ body{
     align-items:center;
 
     box-sizing: border-box;
-    background-color: #faf0e4;
 }
 .bg-body-tertiary {
-    background-color:rgb(176,145,120) !important;
+    background-color:#1c4750 !important;
     width: 100vw;
+}
+.logotipo{
+    margin: 0;
+    pad: 0;
+    height: 4rem;
 }
 .navbar-brand{
     all: unset;
-    color: #faf0e4;
+    color: white;
 }
 
 .nav-link{
-    color: #faf0e4;
+    color: white;
 }
 
 .nav-link:hover{
@@ -67,6 +71,10 @@ body{
 
 .card:hover{
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.20);
+}
+
+.card-footer{
+    border-radius: 0 0 3em 3em !important;
 }
 /*
 .contenedor-tarjetas{
