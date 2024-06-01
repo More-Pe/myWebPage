@@ -11,7 +11,7 @@ body{
 
     box-sizing: border-box !important;
 }
-
+/*NAVBAR*/
 .bg-body-tertiary {
     background-color:#1c4750 !important;
     width: 100vw;
@@ -76,53 +76,8 @@ body{
 .card-footer{
     border-radius: 0 0 3em 3em !important;
 }
-/*
-.contenedor-tarjetas{
-    display: grid;
-    justify-content: center;
-    width: 80vw;
-    grid-template-columns: repeat(4,1fr);
-    gap: 2em;
-    margin: 2em;
-}
-
-.tarjeta{
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    justify-content: center;
-    border-radius: 3em;
-}
-
-.tarjeta:hover{
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.20);
-}
-
-.product{
-    width: 35rem;
-    object-fit: cover;
-    border-radius: 10px 10px 0 0;
-    transition: all .5s;
-}
-
-.item figure{
-    display: flex;
-    justify-content:center;
-    overflow: hidden;
-}
-
-.item:hover img{
-    transform: scale(1.2);
-}
-
-.info-product{
-    display: flex;
-    flex-direction: column;
-    padding-left: 2em;
-    padding-right: 2em;
-}*/
-
-
 .card-body {
     padding: 0;
 }
+
+/*CAROUSEL*/
