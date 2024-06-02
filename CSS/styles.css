@@ -25,6 +25,9 @@ body{
     all: unset;
     color: white;
 }
+/* .navbar-toggler{
+    color: white;
+} */
 
 .nav-link{
     color: white;
@@ -38,7 +41,7 @@ body{
     color: #9cc7c1;
 }
 
-.active{
+.navbar active{
     color: #9cc7c1 !important;
 }
 
@@ -82,6 +85,9 @@ body{
 
 /* INICIO - CAROUSEL */
 
+.caption-color{
+    color: #1c4750;
+}
 
 
 /* CONTACTO */
@@ -94,8 +100,25 @@ body{
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: center;
+    justify-content: space-evenly;
     flex-wrap: wrap;
     overflow: hidden;
     padding-top: 2rem;
 }
+.bg-img{
+    border-radius: 3rem;
+}
+.btn-reserva{
+    background-color: #1c4750;
+    color: white;
+}
+.form-group label{
+    color:#1c4750;
+}
+
+.alergenos{
+    color:#1c4750
+}
+ .horarios-at{
+    background-color: #1c4750;
+ }
