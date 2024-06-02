@@ -85,10 +85,40 @@ body{
 
 /* INICIO - CAROUSEL */
 
+.index-main-page{
+    display: flex;
+    width: 100vw;
+    height: 90vh;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
 .caption-color{
     color: #1c4750;
 }
 
+.carousel{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.carousel-inner{
+    width: 73vw;
+}
+.carousel-indicators {
+    display: flex;
+    justify-content: center;
+    bottom: 0.7rem; /* Ajusta esto si necesitas mover los indicadores hacia arriba o abajo */
+    position: absolute;
+    width: 100%;
+    z-index: 15;
+    padding-left: 0;
+    margin-left: 0;
+    list-style: none;
+    text-align: center;
+  }
 
 /* CONTACTO */
 .main-contact{
@@ -105,9 +135,6 @@ body{
     overflow: hidden;
     padding-top: 2rem;
 }
-/* .bg-img{
-    border-radius: 3rem;
-} */
 .btn-reserva{
     background-color: #1c4750;
     color: white;
@@ -119,6 +146,3 @@ body{
 .alergenos{
     color:#1c4750
 }
- /* .horarios-at{
-    background-color: #1c4750;
- } */
