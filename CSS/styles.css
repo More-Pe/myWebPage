@@ -11,7 +11,7 @@ body{
 
     box-sizing: border-box !important;
 }
-/*NAVBAR*/
+/* ALL - NAVBAR */
 .bg-body-tertiary {
     background-color:#1c4750 !important;
     width: 100vw;
@@ -42,7 +42,7 @@ body{
     color: #9cc7c1 !important;
 }
 
-/*GRID*/
+/* MENU - GRID */
 
 .contenedor-grid{
     width: 70vw;
@@ -80,4 +80,22 @@ body{
     padding: 0;
 }
 
-/*CAROUSEL*/
+/* INICIO - CAROUSEL */
+
+
+
+/* CONTACTO */
+.main-contact{
+    width: 90vw;
+    display: flex;
+    flex-direction: column;
+}
+.img-mostrador{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    overflow: hidden;
+    padding-top: 2rem;
+}
