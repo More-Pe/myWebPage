@@ -104,23 +104,20 @@ body{
   }
 
 /* CONTACTO */
-.main-contact{
-    width: 90vw;
-    display: flex;
-    flex-direction: column;
-}
-.img-mostrador{
+
+.container-img-form{
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: center;
     flex-wrap: wrap;
-    overflow: hidden;
     padding-top: 2rem;
+    gap: 2rem;
 }
 .btn-reserva{
     background-color: #1c4750;
     color: white;
+    margin-top: 1em;
 }
 .form-group label{
     color:#1c4750;
