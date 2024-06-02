@@ -105,9 +105,9 @@ body{
     overflow: hidden;
     padding-top: 2rem;
 }
-.bg-img{
+/* .bg-img{
     border-radius: 3rem;
-}
+} */
 .btn-reserva{
     background-color: #1c4750;
     color: white;
@@ -119,6 +119,6 @@ body{
 .alergenos{
     color:#1c4750
 }
- .horarios-at{
+ /* .horarios-at{
     background-color: #1c4750;
- }
+ } */
