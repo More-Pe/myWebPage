@@ -44,35 +44,26 @@ body{
     justify-content:center;
     align-items:center;
 }
-
-.row>* {
-    margin-top: 2.5rem;
-}
 .card figure{
-    display: flex;
-    justify-content:center;
     overflow: hidden;
 }
 .card:hover img{
     transform: scale(1.2);
 }
-
 .card img{
     transition: all .5s;
 }
 .card{
     border-radius: 3em;
 }
-
 .card:hover{
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.20);
 }
-
 .card-footer{
     border-radius: 0 0 3em 3em !important;
 }
 .card-body {
-    padding: 0;
+    padding: 0; /* No tocar para que no descuadre el menú */
 }
 
 /* INICIO - CAROUSEL */
