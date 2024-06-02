@@ -6,7 +6,7 @@ body{
 
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items:center;
 
     box-sizing: border-box !important;
@@ -21,14 +21,6 @@ body{
     pad: 0;
     height: 4rem;
 }
-.navbar-brand{
-    all: unset;
-    color: white;
-}
-/* .navbar-toggler{
-    color: white;
-} */
-
 .nav-link{
     color: white;
 }
@@ -41,7 +33,7 @@ body{
     color: #9cc7c1;
 }
 
-.navbar active{
+.active{
     color: #9cc7c1 !important;
 }
 
