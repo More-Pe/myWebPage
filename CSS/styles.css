@@ -11,6 +11,7 @@ body{
 
     box-sizing: border-box !important;
 }
+
 /* ALL - NAVBAR */
 .bg-body-tertiary {
     background-color:#1c4750 !important;
@@ -111,7 +112,7 @@ body{
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    padding-top: 2rem;
+    margin-top: 5rem;
     gap: 2rem;
 }
 .btn-reserva{
