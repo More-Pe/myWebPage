@@ -8,6 +8,11 @@
 - **Menu:** Presentación de nuestros productos gourmet.
 - **Formulario de Contacto:** Espacio para que los clientes envíen consultas o pedidos especiales.
 
+## Futuras funcionalidades
+- **Página Principal:** Apartado "Sobre Nosotros".
+- **Menu:** Carrito de compras con opción para recoger o envío a domicilio.
+- **Formulario de Contacto:** Link a Google Maps y Botón para acceder a Whatssap y otras RRSS. 
+
 ## Tecnologías Utilizadas
 - **HTML5**: Estructura del sitio web.
 - **CSS3**: Estilos y diseño visual.
@@ -18,15 +23,15 @@
 
 | Captura | Descripción |
 |---------|-------------|
-| ![Home Page](<img src="./img/vista-home.png") | **Página Principal:** Bienvenida a Éclat Parisien |
-| ![Product Page](<img src="./img/vista-menu.png">) | **Productos:** Detalles de nuestras delicias |
-| ![Contact Form](<img src="./img/vista-contacto.png">) | **Formulario de Contacto:** Consulta o pedido especial |
-| ![Mobile View](<img src="./img/vista-movil.png">) | **Vista Móvil:** Diseño responsivo en acción |
+| <img src="./img/vista-contacto.png"> | **Página Principal:** Bienvenida a Éclat Parisien |
+| <img src="./img/vista-menu.png"> | **Productos:** Detalles de nuestras delicias |
+| <img src="./img/vista-contacto.png"> | **Formulario de Contacto:** Consulta o pedido especial |
+| <img src="./img/vista-movil-2.png"> | **Vista Móvil:** Diseño responsivo en acción |
 
 ## Instalación y Uso
 1. **Clonar el repositorio:**
     ```sh
-    git clone https://github.com/tu-usuario/More-Pe/MyWebPage.git
+    git clone https://github.com/More-Pe/MyWebPage.git
     ```
 2. **Navegar al directorio del proyecto:**
     ```sh
