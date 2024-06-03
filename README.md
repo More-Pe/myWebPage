@@ -35,7 +35,7 @@
 
 ## 🚀 Deployment
 
-<link href="https://more-pe.github.io/myWebPage/">
+https://more-pe.github.io/myWebPage/
 
 ## 🏗️ Instalación y Uso
 1. **Clonar el repositorio:**
