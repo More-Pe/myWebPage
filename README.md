@@ -65,4 +65,4 @@ https://more-pe.github.io/myWebPage/
 
 ## 📞 Contacto
 - **Correo Electrónico:** more.peralta.mp@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/morena-peralta-almada/
+- **LinkedIn:** [Morena Peralta Almada](https://www.linkedin.com/in/morena-peralta-almada/)
