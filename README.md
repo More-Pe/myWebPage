@@ -50,7 +50,10 @@ https://more-pe.github.io/myWebPage/
     ```sh
     open index.html
     ```
-
+## 🔖 Créditos
+- **Página web inspiración**: [Copyright 2023 © Passageaparis.Es](https://passageaparis.es/)
+- **Desarrollada por**: Maïro Frebourg
+- **Fotografías por**: @julie_stor
 
 ## 🤝 Contribución
 1. Haz un fork del proyecto.
@@ -62,4 +65,4 @@ https://more-pe.github.io/myWebPage/
 
 ## 📞 Contacto
 - **Correo Electrónico:** more.peralta.mp@gmail.com
-- **Teléfono:** +34 627973471
+- **LinkedIn:** https://www.linkedin.com/in/morena-peralta-almada/
